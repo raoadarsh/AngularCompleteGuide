@@ -10,16 +10,15 @@ export class NavComponent implements OnInit {
   model: any = {};
   constructor(private authservice: AuthService) { }
 
-  ngOnInit() {
-  }
+  ngOnInit() { }
 
   login() {
-    this.authservice.login(this.model).subscribe(next => {
-
-    }, error => {
-
-    });
-
+    this.authservice.login(this.model).subscribe(
+      next => { },
+      error => {
+        console.log(error);
+      }
+    );
   }
 
   loggedIn() {
@@ -28,7 +27,5 @@ export class NavComponent implements OnInit {
   }
   logOut() {
     localStorage.removeItem('token');
-
   }
-
 }

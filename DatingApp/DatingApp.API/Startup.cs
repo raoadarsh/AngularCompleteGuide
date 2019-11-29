@@ -60,7 +60,8 @@ namespace DatingApp.API
             {
                 app.UseDeveloperExceptionPage();
             }
-            else{
+            else
+            {
                 app.UseExceptionHandler(builder =>
                 {
                     builder.Run(async context =>
