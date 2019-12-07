@@ -49,3 +49,9 @@ D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\
 D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
 D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Data\UserSeedData.json
+D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\Work\Projects\Angular\AngularCompleteGuide\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
